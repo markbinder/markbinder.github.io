@@ -10,12 +10,13 @@ Visit my home page for lots… [markbinder.com](http://markbinder.com)
 ### More Information
 
 My work includes: 
-- Autobiographical lies
-- Funky interpretations of traditional tales (like [Cinderella](http://cinderellaspinderella.com) and Jack and the Beanstalk.
-- Original stories that sound like they were written decades ago
-- Tales of Chelm
-- Novels and stories for adults
-- Political rants and rages
+<ul><li>Autobiographical lies</li>
+<li>Funky interpretations of traditional tales (like [Cinderella](http://cinderellaspinderella.com) and Jack and the Beanstalk.</li>
+<li>Original stories that sound like they were written decades ago</li>
+<li>Tales of Chelm</li>
+<li>Novels and stories for adults</li>
+<li>Political rants and rages</li>
+</ul>
 
 ### Contact me
 
