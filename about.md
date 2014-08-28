@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I write and perform a huge variety of stories for all ages. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+My work includes: 
+- Autobiographical lies
+- Funky interpretations of traditional tales (like [Cinderella](http://cinderellaspinderella.com) and Jack and the Beanstalk.
+- Original stories that sound like they were written decades ago
+- Tales of Chelm
+- Novels and stories for adults
+- Political rants and rages
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mark@markbinder.com](mailto:mark@markbinder.com)
