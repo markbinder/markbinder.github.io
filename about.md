@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I write and perform a huge variety of stories for all ages.
+I write and perform a huge variety of stories for all ages.<br>
 Visit my home page for lots… [markbinder.com](http://markbinder.com)
 
 ### More Information
